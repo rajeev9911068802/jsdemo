@@ -1,1 +1,1 @@
-console.log("Guru Ji")
+console.log("abc")
